@@ -1,3 +1,4 @@
+![Data Pipeline](https://github.com/user-attachments/assets/3d593b88-9eeb-439c-8beb-4f7af9ec2ae6)
 Healthcare Price Transparency Data Project
 Overview
 This project focuses on gathering, cleaning, and analyzing healthcare price transparency data from multiple hospitals in Miami, Taampa and Philidelphia regions. The primary goal is to give consumers clear insights into how much treatments cost across different hospitals and how various insurance plans affect out-of-pocket expenses.
